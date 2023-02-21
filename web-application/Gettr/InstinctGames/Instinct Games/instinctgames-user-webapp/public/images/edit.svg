@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180.823" height="177.393" viewBox="0 0 180.823 177.393">
+  <defs>
+    <filter id="Icon_awesome-edit" x="0" y="0" width="180.823" height="177.393" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur"/>
+      <feFlood flood-opacity="0.69"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Icon_awesome-edit)">
+    <path id="Icon_awesome-edit-2" data-name="Icon awesome-edit" d="M21.544,4.454l4.827,4.827a.523.523,0,0,1,0,.738L14.684,21.706l-4.966.551a1.041,1.041,0,0,1-1.15-1.15l.551-4.966L20.805,4.454A.523.523,0,0,1,21.544,4.454Zm8.669-1.225L27.6.617a2.093,2.093,0,0,0-2.954,0L22.753,2.511a.523.523,0,0,0,0,.738L27.58,8.077a.523.523,0,0,0,.738,0l1.894-1.894a2.093,2.093,0,0,0,0-2.954Zm-9.664,15.3v5.447H3.425V6.851h12.3a.658.658,0,0,0,.455-.187l2.14-2.14a.642.642,0,0,0-.455-1.1H2.569A2.569,2.569,0,0,0,0,5.995V24.831A2.569,2.569,0,0,0,2.569,27.4H21.4a2.569,2.569,0,0,0,2.569-2.569V16.387a.643.643,0,0,0-1.1-.455l-2.14,2.14A.658.658,0,0,0,20.548,18.527Z" transform="translate(75 74.99)" fill="#fff"/>
+  </g>
+</svg>

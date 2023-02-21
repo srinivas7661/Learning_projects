@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="297" height="297" viewBox="0 0 297 297">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.024" y1="1.25" x2="0.833" y2="1.7" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#168bf8"/>
+      <stop offset="1" stop-color="#46fab9"/>
+    </linearGradient>
+    <filter id="Vector" x="0" y="0" width="297" height="297" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="42" result="blur"/>
+      <feFlood flood-color="#3ce1c7" flood-opacity="0.322"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Upload" transform="translate(78.5 80.5)">
+    <g id="Bg" transform="translate(0.333)" fill="#070520" stroke="#4f66a1" stroke-width="2">
+      <circle cx="60" cy="60" r="60" stroke="none"/>
+      <circle cx="60" cy="60" r="59" fill="none"/>
+    </g>
+    <g id="Icon_-_Image" data-name="Icon - Image" transform="translate(33 33)">
+      <rect id="Icon_-_Image-2" data-name="Icon - Image" width="54" height="54" transform="translate(0.333)" fill="rgba(0,0,0,0)"/>
+      <g transform="matrix(1, 0, 0, 1, -111.5, -113.5)" filter="url(#Vector)">
+        <path id="Vector-2" data-name="Vector" d="M32.251,0C39.877,0,45,5.351,45,13.313V31.687C45,39.649,39.877,45,32.249,45h-19.5C5.123,45,0,39.649,0,31.687V13.313C0,5.351,5.123,0,12.749,0Zm2.481,23.738c-2.412-1.5-4.274.608-4.776,1.284-.484.652-.9,1.372-1.339,2.092-1.072,1.776-2.3,3.824-4.428,5.015-3.091,1.711-5.437.135-7.125-1.012a12.43,12.43,0,0,0-1.862-1.1c-1.511-.652-2.871.091-4.889,2.654C9.254,34.01,8.2,35.338,7.141,36.662A1.737,1.737,0,0,0,7.514,39.2a9.293,9.293,0,0,0,4.926,1.3H31.4a10.181,10.181,0,0,0,3.165-.481,8.321,8.321,0,0,0,5.086-4.751A8.48,8.48,0,0,0,40.1,29.1a5.075,5.075,0,0,0-1.154-1.762A24.264,24.264,0,0,0,34.732,23.738ZM14.622,9a5.625,5.625,0,1,0,5.622,5.625A5.629,5.629,0,0,0,14.622,9Z" transform="translate(116 118)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>

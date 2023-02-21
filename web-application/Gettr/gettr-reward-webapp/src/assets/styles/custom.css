@@ -1,0 +1,118 @@
+@import "../../../node_modules/bootstrap/dist/css/bootstrap.css";
+
+body {
+  background-color: #ffffff;
+}
+
+body,
+button,
+html,
+input,
+select,
+textarea,
+div,
+p,
+span,
+label {
+  font-family: "Roboto", "Open Sans", "Helvetica Neue", "Helvetica", "Arial",
+    "sans-serif" !important;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+body,
+button,
+html,
+input,
+select,
+textarea,
+div,
+p,
+span,
+label {
+  font-family: "SFProText", "Open Sans", "Helvetica Neue", "Helvetica", "Arial",
+    "sans-serif" !important;
+}
+
+input:focus {
+  border: solid 1px #0099ff;
+}
+
+.display-none {
+  display: none !important;
+}
+
+.display-block {
+  display: block;
+}
+
+.display-flex {
+  display: flex;
+}
+
+.display-inline {
+  display: inline;
+}
+
+/*Cursor-CSS*/
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.cursor-default {
+  cursor: default;
+}
+
+.cursor-not-allowed {
+  cursor: not-allowed;
+}
+
+/*Borders*/
+.b-1-blue {
+  border: 1px solid #0052cc;
+}
+
+.b-1-white {
+  border: 1px solid #e6e6e6;
+}
+
+/*Border-radius*/
+.br-4 {
+  border-radius: 4px;
+}
+
+/*Width-CSS*/
+
+.outline-none {
+  outline: none !important;
+}
+
+.text-transform-capitalize {
+  text-transform: capitalize !important;
+}
+
+.input-border {
+  border: solid 1px #dfe1e6;
+  border-radius: 2px;
+  background-color: #fafbfc;
+}
+
+.checkbox-border {
+  border-radius: 2px;
+  border: solid 1px #b9bbc2;
+  background-color: #ffffff;
+}
+
+/* Golbal Roboto Font */
+:root {
+  --font-roboto: Roboto;
+}
+
+.w-100 {
+  width: 100%;
+}

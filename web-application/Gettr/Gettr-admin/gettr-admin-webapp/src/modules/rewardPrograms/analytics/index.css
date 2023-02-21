@@ -1,0 +1,30 @@
+.timeslot_inner_div > div > svg {
+  height: 620px;
+}
+.recharts-wrapper {
+  bottom: 67px !important;
+  right: 50px !important;
+}
+.map-unselected {
+  fill: #5392d7;
+}
+.map-selected {
+  fill: #2B6AAF;
+}
+.map-selected:hover,
+.map-unselected:hover {
+  cursor: pointer;
+}
+.map-img{
+  height: 400px !important;
+}
+.recharts-surface{
+  height:416px !important;
+}
+.area_chart .recharts-wrapper {
+  top: 46px !important;
+  right: 36px !important;
+}
+.area_chart .recharts-surface{
+  height:296px !important;
+}

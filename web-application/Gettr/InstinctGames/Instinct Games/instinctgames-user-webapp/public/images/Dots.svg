@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="20" viewBox="0 0 36 20">
+  <defs>
+    <filter id="Elipse_32" x="0" y="0" width="20" height="20" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.612"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_33" x="8" y="0" width="20" height="20" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-2"/>
+      <feFlood flood-opacity="0.612"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_34" x="16" y="0" width="20" height="20" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-3"/>
+      <feFlood flood-opacity="0.612"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_12598" data-name="Grupo 12598" transform="translate(-463.5 -1681.5)">
+    <g transform="matrix(1, 0, 0, 1, 463.5, 1681.5)" filter="url(#Elipse_32)">
+      <circle id="Elipse_32-2" data-name="Elipse 32" cx="2.5" cy="2.5" r="2.5" transform="translate(7.5 7.5)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 463.5, 1681.5)" filter="url(#Elipse_33)">
+      <circle id="Elipse_33-2" data-name="Elipse 33" cx="2.5" cy="2.5" r="2.5" transform="translate(15.5 7.5)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 463.5, 1681.5)" filter="url(#Elipse_34)">
+      <circle id="Elipse_34-2" data-name="Elipse 34" cx="2.5" cy="2.5" r="2.5" transform="translate(23.5 7.5)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

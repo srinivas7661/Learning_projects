@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="88" viewBox="0 0 88 88">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3fdbef"/>
+      <stop offset="1" stop-color="#26b4e8"/>
+    </linearGradient>
+  </defs>
+  <g id="Music" transform="translate(-0.282)">
+    <g id="Rectangle_836" data-name="Rectangle 836" transform="translate(0.282)" fill="#f0f0f6" stroke="#efefef" stroke-width="1">
+      <rect width="88" height="88" rx="6" stroke="none"/>
+      <rect x="0.5" y="0.5" width="87" height="87" rx="5.5" fill="none"/>
+    </g>
+    <g id="Group_597" data-name="Group 597" transform="translate(23.091 23)">
+      <path id="Path_364" data-name="Path 364" d="M0,0H42.437V42.437H0Z" fill="none"/>
+      <path id="Path_365" data-name="Path 365" d="M23.117,15.765a5.759,5.759,0,1,0,3.84,5.433V2.879A19.212,19.212,0,1,1,21.2,2c.647,0,1.288.033,1.92.1Z" transform="translate(0.021 0.021)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

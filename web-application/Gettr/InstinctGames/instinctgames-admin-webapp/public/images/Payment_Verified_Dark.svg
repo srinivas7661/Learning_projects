@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="83" height="83" viewBox="0 0 83 83">
+  <g id="Payment_Verified" data-name="Payment Verified" transform="translate(-1441 -656)">
+    <circle id="Ellipse_65" data-name="Ellipse 65" cx="41.5" cy="41.5" r="41.5" transform="translate(1441 656)" fill="#f0f0f6"/>
+    <g id="Group_464" data-name="Group 464" transform="translate(136 -42)">
+      <path id="Path_451" data-name="Path 451" d="M19.67,14.33H24v3.34H19.67a1.67,1.67,0,1,1,0-3.34Z" transform="translate(1334.636 723.286)" fill="#b1b1b2"/>
+      <path id="Path_452" data-name="Path 452" d="M41.286,5H6.714A4.728,4.728,0,0,0,2,9.714V34.857a4.728,4.728,0,0,0,4.714,4.714H41.286A4.728,4.728,0,0,0,46,34.857V9.714A4.728,4.728,0,0,0,41.286,5ZM39.714,26.481a1.576,1.576,0,0,1-1.571,1.571H29.767a5.767,5.767,0,0,1,0-11.534h8.376a1.576,1.576,0,0,1,1.571,1.571Z" transform="translate(1323 717)" fill="#b1b1b2"/>
+    </g>
+  </g>
+</svg>

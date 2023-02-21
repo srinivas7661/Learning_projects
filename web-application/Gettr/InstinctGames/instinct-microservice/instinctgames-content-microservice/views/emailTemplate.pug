@@ -1,0 +1,92 @@
+doctype html
+html
+  head
+    meta(charset='UTF-8')
+    meta(http-equiv='X-UA-Compatible' content='IE=edge')
+    meta(name='viewport' content='width=device-width, initial-scale=1.0')
+    link(rel='stylesheet' href='https://cdn.jsdelivr.net/npm/semantic-ui@2.3.3/dist/semantic.min.css')
+    style.
+          .mainClass{
+            background: #F7F7F7 0% 0% no-repeat padding-box; 
+            width: 578px;
+            margin: auto;
+            padding: 50px; 
+            height: 564px;
+          }
+          .parent-class{
+            display: flex;
+            background: #FFFFFF 0% 0% no-repeat padding-box;
+            width:470px;
+            align-content:center;
+            flex-direction: column;
+            justify-content: flex-start
+          }
+          .img-class{
+            width: 220px;
+            height: 50px;
+          }
+          .inside-block{
+            display: flex; 
+            flex-direction: column;
+            row-gap:20px; 
+            padding: 10px;
+            width: 436px; 
+            height: 60px;
+            border-radius: 4px;
+            margin: 0 0 0 7px;
+            opacity: 1;
+            background: #F8F8F8 0% 0% no-repeat padding-box; margin-top: 30px
+          }
+          .inner-lines{
+            display: flex; 
+            flex-direction: row;
+            column-gap: 20px;
+          }
+          .btn-class{
+            width: 241px;
+            height: 42px;
+            background: #6874E8;
+            border-radius: 4px;
+            border: none;
+            opacity: 1;
+            margin-top: 30px; 
+            cursor: pointer;
+          }
+          .text-class:{
+            display: flex;
+            justify-content: center;
+            padding-top: 25px;
+          }
+          .footer-class{
+            display: flex; 
+            justify-content: center;
+            margin-top: 30px;
+            text-align: center;
+            letter-spacing: 0px;
+            color: #A8A8A8;
+            opacity: 1;
+          }
+
+  body
+    div(style='background: #F7F7F7 0% 0% no-repeat padding-box; width: 100%; height: 713px; box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px; padding-top: 30px')
+      div(style="background: #FFFFFF 0% 0% no-repeat padding-box; width:463px; height:564px; margin: auto; padding: 50px;")
+        img(src='https://du1xtrg0r7yp2.cloudfront.net/nftFiles/templateIcon.png' alt='image' style="width: 220px; height: 50px;")      
+        div(style='padding-top: 40px; font: normal normal bold 18px/22px Barlow; color: #38404C;') Token Listing
+        div(style='padding-top: 30px; font: normal normal medium 16px/20px Barlow; color: #282828;')
+            | Your token listing request is approved. Please make the payment to
+            br
+            | complete the listing process
+        div(style="row-gap:20px; padding: 10px; width: 436px; height: 60px; border-radius: 4px; margin: 30px 0 0 7px; opacity: 1; background: #F8F8F8 0% 0% no-repeat padding-box;")
+          div
+            div(style="font: normal normal medium 14px/17px Barlow; color: #2D2D2D;") Wallet Id &nbsp;&nbsp; #{WALLET}
+          br
+          div
+            div(style="font: normal normal medium 14px/17px Barlow; color: #2D2D2D;") Amount &nbsp;&nbsp;&nbsp; #{AMOUNT} &nbsp; #{CURRENCY}
+        div(style="padding-top: 25px; font: normal normal normal 14px/20px Barlow; color: #282828;")
+          | After payment add the payment details by clicking on the button below
+        br
+        br
+        a(href=VERIFY_URL): button(type="button" style="width: 241px; margin-left: 24%; border: none; height: 42px; background: #6874E8 0% 0% no-repeat padding-box; border-radius: 4px; opacity: 1; color: white; cursor: pointer;") Verify
+        br  
+        br
+        div(style='text-align: center; color: #A8A8A8; opacity: 1;') &copy; 2020. Hoardable

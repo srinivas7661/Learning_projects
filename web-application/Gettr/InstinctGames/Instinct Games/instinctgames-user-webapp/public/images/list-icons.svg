@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1411.625" height="297" viewBox="0 0 1411.625 297">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.024" y1="1.25" x2="0.833" y2="1.7" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#168bf8"/>
+      <stop offset="1" stop-color="#46fab9"/>
+    </linearGradient>
+    <filter id="Vector" x="0" y="2.25" width="297" height="292.5" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="42" result="blur"/>
+      <feFlood flood-color="#3ce1c7" flood-opacity="0.322"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Vector-2" x="372.667" y="0" width="297" height="297" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="42" result="blur-2"/>
+      <feFlood flood-color="#3ce1c7" flood-opacity="0.322"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Vector-3" x="1121.375" y="0" width="290.25" height="297" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="42" result="blur-3"/>
+      <feFlood flood-color="#3ce1c7" flood-opacity="0.322"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-4" x1="0.221" y1="0.137" x2="0.778" y2="0.93" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#168bf8"/>
+      <stop offset="1" stop-color="#34d1d1"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_12559" data-name="Group 12559" transform="translate(-262.5 -397.5)">
+    <line id="Line" x2="1220" transform="translate(349 538)" fill="none" stroke="#393759" stroke-linecap="round" stroke-width="3" stroke-dasharray="2 15"/>
+    <g id="Wallet" transform="translate(341 478)">
+      <g id="Bg" fill="#070520" stroke="#4f66a1" stroke-width="2">
+        <circle cx="60" cy="60" r="60" stroke="none"/>
+        <circle cx="60" cy="60" r="59" fill="none"/>
+      </g>
+      <g id="Icon_-_Wallet" data-name="Icon - Wallet" transform="translate(33 33)">
+        <rect id="Icon_-_Wallet-2" data-name="Icon - Wallet" width="54" height="54" fill="rgba(0,0,0,0)"/>
+        <g transform="matrix(1, 0, 0, 1, -111.5, -113.5)" filter="url(#Vector)">
+          <path id="Vector-4" data-name="Vector" d="M32.66,0C40.42,0,45,4.465,45,12.109H35.48v.078a7.9,7.9,0,0,0-8,7.8,7.9,7.9,0,0,0,8,7.8H45v.7C45,36.035,40.42,40.5,32.66,40.5H12.34C4.58,40.5,0,36.035,0,28.488V12.012C0,4.465,4.58,0,12.34,0ZM43.32,15.463A1.659,1.659,0,0,1,45,17.1v5.694a1.679,1.679,0,0,1-1.68,1.638H35.66a4.738,4.738,0,0,1-4.7-3.588,4.46,4.46,0,0,1,.974-3.717,4.706,4.706,0,0,1,3.546-1.665ZM36.56,18.1h-.74a1.723,1.723,0,0,0-1.215.479,1.637,1.637,0,0,0-.5,1.179,1.718,1.718,0,0,0,1.72,1.7h.74a1.677,1.677,0,1,0,0-3.354Zm-13.2-9.34H10.66a1.7,1.7,0,0,0-1.72,1.657,1.718,1.718,0,0,0,1.72,1.7h12.7a1.677,1.677,0,1,0,0-3.354Z" transform="translate(116 120.25)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Upload" transform="translate(713.667 478)">
+      <g id="Bg-2" data-name="Bg" transform="translate(0.333)" fill="#070520" stroke="#4f66a1" stroke-width="2">
+        <circle cx="60" cy="60" r="60" stroke="none"/>
+        <circle cx="60" cy="60" r="59" fill="none"/>
+      </g>
+      <g id="Icon_-_Image" data-name="Icon - Image" transform="translate(33 33)">
+        <rect id="Icon_-_Image-2" data-name="Icon - Image" width="54" height="54" transform="translate(0.333)" fill="rgba(0,0,0,0)"/>
+        <g transform="matrix(1, 0, 0, 1, -484.17, -113.5)" filter="url(#Vector-2)">
+          <path id="Vector-5" data-name="Vector" d="M32.251,0C39.877,0,45,5.351,45,13.313V31.687C45,39.649,39.877,45,32.249,45h-19.5C5.123,45,0,39.649,0,31.687V13.313C0,5.351,5.123,0,12.749,0Zm2.481,23.738c-2.412-1.5-4.274.608-4.776,1.284-.484.652-.9,1.372-1.339,2.092-1.072,1.776-2.3,3.824-4.428,5.015-3.091,1.711-5.437.135-7.125-1.012a12.43,12.43,0,0,0-1.862-1.1c-1.511-.652-2.871.091-4.889,2.654C9.254,34.01,8.2,35.338,7.141,36.662A1.737,1.737,0,0,0,7.514,39.2a9.293,9.293,0,0,0,4.926,1.3H31.4a10.181,10.181,0,0,0,3.165-.481,8.321,8.321,0,0,0,5.086-4.751A8.48,8.48,0,0,0,40.1,29.1a5.075,5.075,0,0,0-1.154-1.762A24.264,24.264,0,0,0,34.732,23.738ZM14.622,9a5.625,5.625,0,1,0,5.622,5.625A5.629,5.629,0,0,0,14.622,9Z" transform="translate(488.67 118)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Upload-2" data-name="Upload" transform="translate(1086.333 478)">
+      <g id="Bg-3" data-name="Bg" transform="translate(-0.333)" fill="#070520" stroke="#4f66a1" stroke-width="2">
+        <circle cx="60" cy="60" r="60" stroke="none"/>
+        <circle cx="60" cy="60" r="59" fill="none"/>
+      </g>
+    </g>
+    <g id="List_Them" data-name="List Them" transform="translate(1459 478)">
+      <g id="Bg-4" data-name="Bg" fill="#070520" stroke="#4f66a1" stroke-width="2">
+        <circle cx="60" cy="60" r="60" stroke="none"/>
+        <circle cx="60" cy="60" r="59" fill="none"/>
+      </g>
+      <g id="Icon_-_Paper" data-name="Icon - Paper" transform="translate(33 33)">
+        <rect id="Icon_-_Paper-2" data-name="Icon - Paper" width="54" height="54" fill="rgba(0,0,0,0)"/>
+        <g transform="matrix(1, 0, 0, 1, -1229.5, -113.5)" filter="url(#Vector-3)">
+          <path id="Vector-6" data-name="Vector" d="M21.943,0a1.027,1.027,0,0,1,1.025,1.035V8.28A7.535,7.535,0,0,0,30.408,15.8c1.693,0,3.03.023,4.054.023l.38,0c.685-.005,1.607-.021,2.405-.021a1,1,0,0,1,1,1.012V34.9a10.052,10.052,0,0,1-10,10.1H10.515A10.568,10.568,0,0,1,0,34.4V10.148A10.114,10.114,0,0,1,10.047,0Zm2.384,29.025H12.208a1.672,1.672,0,0,0-1.671,1.665,1.691,1.691,0,0,0,1.671,1.688H24.327A1.691,1.691,0,0,0,26,30.69,1.672,1.672,0,0,0,24.327,29.025Zm-4.589-11.25h-7.53a1.691,1.691,0,0,0-1.671,1.688,1.672,1.672,0,0,0,1.671,1.665h7.53a1.672,1.672,0,0,0,1.671-1.665A1.691,1.691,0,0,0,19.738,17.775ZM26.214,2.039a1.064,1.064,0,0,1,1.831-.752l8.969,9.421a1.073,1.073,0,0,1-.764,1.816c-1.831.007-3.99,0-5.543-.016A4.539,4.539,0,0,1,26.214,7.97Z" transform="translate(1237.37 118)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+    </g>
+    <path id="Icon_ionic-md-cloud-upload" data-name="Icon ionic-md-cloud-upload" d="M55.144,23.64a20.9,20.9,0,0,0-39.083-5.583,16.728,16.728,0,0,0,1.814,33.36H54.167A14,14,0,0,0,68.125,37.458,13.788,13.788,0,0,0,55.144,23.64ZM39.092,31.875V42.483H30.158V31.875H20.667L34.625,17.917,48.583,31.875Z" transform="translate(1111.342 505.25)" fill="url(#linear-gradient-4)"/>
+  </g>
+</svg>

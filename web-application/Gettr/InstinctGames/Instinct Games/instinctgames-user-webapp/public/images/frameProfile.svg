@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="221" height="257.765" viewBox="0 0 221 257.765">
+  <g id="Frame" transform="translate(-208 -296.534)">
+    <g id="Polígono_8" data-name="Polígono 8" transform="translate(429 301) rotate(90)" fill="none">
+      <path d="M186.75,0,249,110.5,186.75,221H62.25L0,110.5,62.25,0Z" stroke="none"/>
+      <path d="M 65.17205810546875 5 L 5.738800048828125 110.5 L 65.17205810546875 216 L 183.8279418945312 216 L 243.2611999511719 110.5 L 183.8279418945312 5 L 65.17205810546875 5 M 62.25 0 L 186.75 0 L 249 110.5 L 186.75 221 L 62.25 221 L 0 110.5 L 62.25 0 Z" stroke="none" fill="#8255ec"/>
+    </g>
+    <path id="Trazado_5442" data-name="Trazado 5442" d="M-1724.4,7667.333l-54.4-30.934-56,30.934" transform="translate(2098 -7337)" fill="none" stroke="#8255ec" stroke-width="5"/>
+    <path id="Trazado_5444" data-name="Trazado 5444" d="M-1724.4,7667.333l-54.4-30.934-56,30.934" transform="translate(2098 -7329.97)" fill="none" stroke="#8255ec" stroke-width="5"/>
+    <path id="Trazado_5443" data-name="Trazado 5443" d="M-1724.4,7636.4l-54.4,30.934-56-30.934" transform="translate(2098 -7115.9)" fill="none" stroke="#8255ec" stroke-width="5"/>
+    <path id="Trazado_5445" data-name="Trazado 5445" d="M-1724.4,7636.4l-54.4,30.934-56-30.934" transform="translate(2098 -7123.9)" fill="none" stroke="#8255ec" stroke-width="5"/>
+  </g>
+</svg>

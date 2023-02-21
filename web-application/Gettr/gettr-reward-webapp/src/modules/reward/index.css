@@ -1,0 +1,6 @@
+.timeslot_inner_div >div>svg{
+height:620px;
+}
+/* .timeslot_inner_div >div>svg>.xAxis >g>g{
+transform: rotate(-360deg);
+} */

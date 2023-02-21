@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="169.5" height="30" viewBox="0 0 169.5 30">
+  <g id="img-logo" transform="translate(-109.5 -66)">
+    <path id="minimize-3" d="M8.944,3V6.566A2.378,2.378,0,0,1,6.566,8.944H3m21.4,0H20.832a2.378,2.378,0,0,1-2.378-2.378V3m0,21.4V20.832a2.378,2.378,0,0,1,2.378-2.378H24.4m-21.4,0H6.566a2.378,2.378,0,0,1,2.378,2.378V24.4" transform="translate(108.5 67.5)" fill="none" stroke="#395ff1" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <text id="nft_ticketing" data-name="nft ticketing" transform="translate(143 91)" fill="#395ff1" font-size="25" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="0" y="0">nft ticketing</tspan></text>
+  </g>
+</svg>

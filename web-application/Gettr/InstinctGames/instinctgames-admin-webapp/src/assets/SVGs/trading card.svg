@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="trading_card" data-name="trading card" transform="translate(-19 -576)">
+    <g id="Group_260" data-name="Group 260">
+      <rect id="Rectangle_571" data-name="Rectangle 571" width="24" height="24" transform="translate(19 576)" fill="none"/>
+      <rect id="Rectangle_572" data-name="Rectangle 572" width="15" height="19" transform="translate(22 581)" fill="#fff"/>
+    </g>
+    <g id="Rectangle_573" data-name="Rectangle 573" transform="matrix(0.966, 0.259, -0.259, 0.966, 27.354, 576)" fill="rgba(255,255,255,0)" stroke="#fff" stroke-width="1">
+      <rect width="15.517" height="20.689" stroke="none"/>
+      <rect x="0.5" y="0.5" width="14.517" height="19.689" fill="none"/>
+    </g>
+    <rect id="Rectangle_574" data-name="Rectangle 574" width="8" height="2" transform="translate(25 586)" fill="#1b224b"/>
+    <rect id="Rectangle_575" data-name="Rectangle 575" width="8" height="2" transform="translate(25 590)" fill="#1b224b"/>
+  </g>
+</svg>

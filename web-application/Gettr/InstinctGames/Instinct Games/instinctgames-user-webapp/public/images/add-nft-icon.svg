@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.221" y1="0.137" x2="0.778" y2="0.93" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#168bf8"/>
+      <stop offset="1" stop-color="#34d1d1"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_12560" data-name="Group 12560" transform="translate(-1086 -675)">
+    <g id="Upload" transform="translate(1086.333 675)">
+      <g id="Bg" transform="translate(-0.333)" fill="#070520" stroke="#4f66a1" stroke-width="2">
+        <circle cx="60" cy="60" r="60" stroke="none"/>
+        <circle cx="60" cy="60" r="59" fill="none"/>
+      </g>
+    </g>
+    <path id="Icon_ionic-md-cloud-upload" data-name="Icon ionic-md-cloud-upload" d="M55.144,23.64a20.9,20.9,0,0,0-39.083-5.583,16.728,16.728,0,0,0,1.814,33.36H54.167A14,14,0,0,0,68.125,37.458,13.788,13.788,0,0,0,55.144,23.64ZM39.092,31.875V42.483H30.158V31.875H20.667L34.625,17.917,48.583,31.875Z" transform="translate(1111.342 702.25)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

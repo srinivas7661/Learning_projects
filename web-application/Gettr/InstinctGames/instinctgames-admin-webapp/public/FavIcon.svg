@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3fabb9"/>
+      <stop offset="1" stop-color="#b91fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4a9dbe"/>
+      <stop offset="1" stop-color="#973fb9"/>
+    </linearGradient>
+  </defs>
+  <g id="Fav_icon" data-name="Fav icon" transform="translate(85.842 -13.199)">
+    <path id="Exclusion_1" data-name="Exclusion 1" d="M4.9,11.71h0l-.415-.233V6.71L2.529,7.878v2.405L0,8.892V8.376l1.671-.987V1.2l-.8.5V6.929l-.777.46V1.2L2.125,0l.4.267v4.69L4.483,3.8V1.354L6.974,2.845v.488l-1.66.978v6.12l.806-.421V4.768l.854-.457v6.225Zm-3.2-3.354-.406.254.406.274ZM4.466,4.808,2.541,5.956v.9l1.925-1.1ZM5.3,2.833v.513L5.7,3.1Z" transform="translate(-81.401 15.258)" fill="url(#linear-gradient)"/>
+    <path id="Subtraction_1" data-name="Subtraction 1" d="M8,16a7.993,7.993,0,0,1-6.685-3.6l.84-.48a7.089,7.089,0,0,0,.871,1.058A7.036,7.036,0,0,0,14.482,5.262c-.03-.072-.063-.145-.1-.217l.841-.481A8,8,0,0,1,8,16ZM.833,11.559h0A8,8,0,0,1,8,0,7.994,7.994,0,0,1,14.76,3.719l-.839.479a7.081,7.081,0,0,0-3.183-2.681,7.039,7.039,0,0,0-9.22,9.22c.048.115.1.229.155.341l-.84.48Z" transform="translate(-85.842 13.2)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>
